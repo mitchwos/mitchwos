@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mitchwos
 - 👀 I’m interested in zoo bio
 - 🌱 I’m currently learning bioinformatics
-- 💞️ I’m looking to collaborate on wouldn't you like to know
 - 📫 How to reach me mjw85@student.le.ac.uk
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: ants are ranchers that herd aphids :) 
