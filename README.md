@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitchwos , I'm a PhD student at DCU
 - 👀 I’m interested in zoo biology and bioinformatics
-- 📫 How to reach me michelle.wosinsk2@mail.dcu.ie
+- 📫 How to reach me michelle.wosinski2@mail.dcu.ie
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: ants are ranchers that herd aphids :) 
 
